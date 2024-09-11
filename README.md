@@ -2,7 +2,7 @@
 # [Leetcode](https://leetcode.com/u/karthikkrazy)
 ![leetcode stats](https://leetcode.card.workers.dev/?username=karthikkrazy)
 # [Bento](https://bento.me/karthikkrazy) 
-![Me holding a phone with my leg](/assets/me-holding-a-phone.png)
+![Me holding a phone with my leg](/assets/me-holding-a-phone-Photoroom.png)
 <!--
 **krazykarthik2/krazykarthik2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
