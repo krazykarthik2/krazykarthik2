@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+# Leetcode
+![leetcode stats](https://leetcode.card.workers.dev/?username=karthikkrazy)
 # [Bento](https://bento.me/karthikkrazy) 
 ![Me holding a phone with my leg](/assets/me-holding-a-phone.png)
 <!--
