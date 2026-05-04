@@ -2,7 +2,6 @@
 # [Leetcode](https://leetcode.com/u/karthikkrazy)
 ![leetcode stats](https://leetcode.card.workers.dev/?username=karthikkrazy)
 # [Bento](https://bento.me/karthikkrazy) 
-![Me holding a phone with my leg](/assets/me-holding-a-phone-Photoroom.png)
 # Stats
 ![krazykarthik2's Stats](https://github-readme-stats.vercel.app/api?username=krazykarthik2&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
 ![krazykarthik2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krazykarthik2&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
